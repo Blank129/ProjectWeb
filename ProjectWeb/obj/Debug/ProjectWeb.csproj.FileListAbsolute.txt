@@ -1,0 +1,244 @@
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\ProjectWeb.dll.config
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\ProjectWeb.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\ProjectWeb.pdb
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csc.exe
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csc.exe.config
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csc.rsp
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csi.exe
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csi.exe.config
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\csi.rsp
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.AppContext.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Console.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.exe
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.exe.config
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.rsp
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Antlr3.Runtime.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\EntityFramework.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Newtonsoft.Json.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Owin.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Helpers.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Mvc.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Optimization.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Razor.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\WebGrease.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Helpers.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Mvc.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Optimization.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.Razor.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Newtonsoft.Json.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Antlr3.Runtime.pdb
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\EntityFramework.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.AssemblyReference.cache
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.CopyComplete
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.pdb
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.CreatedDatabase.resources
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.GenerateResource.cache
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.UpdateCategory.resources
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\CKFinder.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\CKFinder.pdb
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\PagedList.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\PagedList.Mvc.dll
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\PagedList.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\bin\PagedList.Mvc.xml
+C:\Users\V\Documents\Khóa C#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.updateProduct.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\ProjectWeb.dll.config
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\ProjectWeb.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\ProjectWeb.pdb
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csc.exe
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csc.exe.config
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csc.rsp
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csi.exe
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csi.exe.config
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\csi.rsp
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.AppContext.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Console.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.exe
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.exe.config
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\vbc.rsp
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Antlr3.Runtime.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\CKFinder.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\EntityFramework.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Newtonsoft.Json.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Owin.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\PagedList.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\PagedList.Mvc.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Helpers.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Mvc.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Optimization.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Razor.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\WebGrease.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\CKFinder.pdb
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\PagedList.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\PagedList.Mvc.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Helpers.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Mvc.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Optimization.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.Razor.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Newtonsoft.Json.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Antlr3.Runtime.pdb
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\EntityFramework.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.AssemblyReference.cache
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.CreatedDatabase.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.UpdateCategory.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.updateProduct.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.GenerateResource.cache
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.csproj.Up2Date
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.pdb
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.CreatTBThongKe.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Dapper.dll
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\bin\Dapper.xml
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.AddStatus.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.InsertCustomerId.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.table_review.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.table_review_edit.resources
+C:\Users\V\Documents\KhoaC#\ProjectWeb\ProjectWeb\obj\Debug\ProjectWeb.Migrations.tableWishList.resources
